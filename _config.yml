@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "hayman42"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "웹개발 공부 매모"
   location         : "Somewhere"
-  email            :
+  email            : "hayman42@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
